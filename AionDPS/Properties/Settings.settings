@@ -44,5 +44,11 @@
     <Setting Name="호법성" Type="System.String" Scope="User">
       <Value Profile="(Default)">8</Value>
     </Setting>
+    <Setting Name="집행자" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="권성" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
